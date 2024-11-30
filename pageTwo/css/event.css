@@ -1,0 +1,234 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-size: 100%;
+}
+
+body {
+margin: 0;
+background-color: #AED1D3;
+
+min-height: 100dvh;
+width: 100%;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffd586;
+  height: 100px;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.logo {
+height: 100px;
+width: auto;
+}
+
+.links {
+display: flex; 
+align-items: center;
+}
+
+
+
+nav a {
+font-family: "Poppins", sans-serif;
+font-weight: 600;
+font-style: normal;
+text-decoration: none;
+font-weight: 500;
+font-size: 25px;
+color: #AED1D3;
+letter-spacing: 2px;
+margin-right: 20px;
+}
+
+nav a:hover {
+text-decoration: underline;
+color: #B990B3;
+}
+
+
+
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h4 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h5 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+.advocate {
+  height: 190px;
+  width: 100%;
+}
+
+.mural {
+  height: 190px;
+  width: 100%;
+
+}
+
+.candles {
+  height: 190px;
+  width: 100%;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+
+
+.parentOne {
+
+
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+justify-content: space-around;
+width: 100%;
+
+
+}
+
+
+
+
+
+
+
+.child {
+background-color: #B990B3;
+border: 2px solid #ffffff;
+width: 30%;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer a {
+font-family: "Poppins", sans-serif;
+font-weight: 600;
+}
+
+
+
+footer {
+background-color: #ffd586;
+padding: 20px;
+text-align: center;
+font-family: "Poppins", sans-serif;
+color: #AED1D3;
+bottom: 0;
+width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+  
+  * {
+    font-size: 75%;
+  }
+
+.parentOne {
+  flex-direction: column;
+}
+
+.child {
+  width: 100%;
+}
+
+
+}
+
+
+
