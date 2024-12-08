@@ -15,10 +15,13 @@ I personally choose this cause because I was a little girl once. I can’t imagi
 
 [Figma Wireframe Link](https://www.figma.com/proto/taO21aWLp8uAUDIoGWf0ay/Festival-Guide?node-id=1-2&t=JaxIqlOobs00hfOU-1&starting-point-node-id=1%3A2)
 
-[Festival Guide Concept Link](https://docs.google.com/document/d/1KqXlBUvB2Qg_9t-FqtIyfcmzAozxuip6OkmtYdleR8s/edit?usp=sharing)
+[Festival Guide Concept Doc Link](https://docs.google.com/document/d/1KqXlBUvB2Qg_9t-FqtIyfcmzAozxuip6OkmtYdleR8s/edit?usp=sharing)
 
-[AI Images Used](https://drive.google.com/drive/folders/1fobwsdRxzluhU9nzHP3TcHilaQq7fqlr?usp=share_link)
-The images have the prompt I put into Gencraft written on them. 
+[AI Images Used Folder Link](https://drive.google.com/drive/folders/1fobwsdRxzluhU9nzHP3TcHilaQq7fqlr?usp=share_link)
+
+The images have the prompt I put into Gencraft in the title in the folder.
+
+[Physical Asset Design Folder Link](https://drive.google.com/drive/folders/1-ctYXrCqhdSHq4yZqOBdIWsSOmLWv4Kq?usp=share_link)
 
 # Technical Statement
 
@@ -32,11 +35,13 @@ Fonts:
 - Poppins, italic and semibold
 - Montserrat, bold
 
+Merch mockups were found in https://mockups-design.com.
+Physical asset design mockup was found in https://unblast.com/mockups/advertising/
 
 # Acknowldegements
 
 For my Events page, I borrowed code from Professor Joshua Oakley, the HTML/CSS Review.
-
+For my Merch page, I used geeksforgeeks.org sent by Tianna in the discord chat to help me link images to a website.
 
 
 
